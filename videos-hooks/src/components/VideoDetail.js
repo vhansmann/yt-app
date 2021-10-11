@@ -1,5 +1,4 @@
 import React from 'react';
-import youtube from '../apis/youtube';
 import youtube_captions from '../apis/youtube_captions';
 
 const VideoDetail = ({ video }) => {
